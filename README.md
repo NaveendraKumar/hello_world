@@ -1,5 +1,4 @@
 # hello_world
-just another repository
 hi humans!
 
 navi here, i like to  python web Data science Django
